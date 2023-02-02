@@ -5,19 +5,3 @@ for key in per_cent: deposit.append(int((per_cent[key]*money)/100))
 max_deposit = max(deposit)
 print(deposit)
 print("Максимальная сумма которую вы получите:" , max_deposit)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# depisot
